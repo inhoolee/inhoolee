@@ -1,29 +1,5 @@
-<h1 align="center">Inhoo Lee</h1>
-
 <p align="center">
-  Data Analyst<br/>
+  <img src="./image.png" alt="Stepping stones on calm water" width="100%" />
 </p>
 
-## About
-
-Data Analyst
-
-## Skills
-
-- Data: SQL (PostgreSQL), Python
-
-## Projects
-
-## Contact
-
-- Email: <me@inhoolee.com>
-- Blog: <https://blog.inhoolee.com>
-- LinkedIn: <https://www.linkedin.com/in/inhoo-lee>
-- GitHub: <https://github.com/inhoolee>
-
-## Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inhoolee&theme=default" alt="GitHub stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inhoolee&theme=default" alt="Top languages" width="49%" />
-</p>
+<p align="center"><strong>돌다리도 두들기듯, 한 줄 한 줄 확실하게 쌓습니다.</strong></p>
