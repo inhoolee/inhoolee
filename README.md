@@ -11,7 +11,6 @@ Data Analyst
 ## Skills
 
 - Data: SQL (PostgreSQL), Python
-- Data Engineering: ETL, 데이터 무결성 검증, 쿼리/인덱스 최적화
 
 ## Projects
 
@@ -25,8 +24,8 @@ Data Analyst
 ## Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=inhoolee&show_icons=true" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inhoolee&theme=default" alt="GitHub stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhoolee&layout=compact" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inhoolee&theme=default" alt="Top languages" />
 </p>
