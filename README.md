@@ -23,9 +23,7 @@ Data Analyst
 
 ## Stats
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inhoolee&theme=default" alt="GitHub stats" />
-</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inhoolee&theme=default" alt="Top languages" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inhoolee&theme=default" alt="GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inhoolee&theme=default" alt="Top languages" width="49%" />
 </p>
